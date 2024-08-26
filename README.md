@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vikas538463
-- 👀 I’m interested in singing
+- 👀 I’m interested in web-dev
 - 🌱 I’m currently learning BCA
 - 📫 How to reach me vk869237@gmail.com
